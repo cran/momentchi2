@@ -1,0 +1,6 @@
+momentchi2 is an R package which implements moment-matching methods for computing the cumulative distribution function of a positively-weighted sum of chi-squared random variables.
+
+Those interested in this application are encouraged to have a look at the excellent CompQuadForm package which provides alternative methods (that do not use moment-matching) that can also be used for noncentral chi-squared random variables.
+
+To install:
+> install.packages("momentchi2")
